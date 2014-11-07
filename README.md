@@ -1,8 +1,7 @@
-Negadinha Do Alfa
+﻿Negadinha Do Alfa
 =================
 
 - Dunha
 - Zika 
 - PY
 - --Pescoço--
-- 
